@@ -1,5 +1,5 @@
 ## olá pessoal 
-eu me chamo Gabriella 
+eu me chamo Gabriella 👋🏼
 
 - eu estou estudando no alura
 - estou me desenvolvendo na linguagem Javascript 
